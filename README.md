@@ -1,6 +1,6 @@
 # Update CSS variables with JS
 
-![preview](preview.mov)
+![preivew](preview.gif)
 
 ## What I learned
 
